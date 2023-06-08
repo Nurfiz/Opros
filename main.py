@@ -6,7 +6,7 @@ from config import *
 from anket import *
 
 
-bot = telebot.TeleBot('6236893434:AAEQO3bukIPCHkhhtqdjHDqYgFkR1XLJ5Pw')
+bot = telebot.TeleBot('5824666339:AAHh8d-IPgWyyTxWo2WLUmK72nmGSSbwUlU')
 
 user_data = {}
 db = TinyDB('answers_db.json')
